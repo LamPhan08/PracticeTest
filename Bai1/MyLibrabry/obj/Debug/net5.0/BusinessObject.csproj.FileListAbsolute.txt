@@ -1,0 +1,15 @@
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\bin\Debug\net5.0\BusinessObject.deps.json
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\bin\Debug\net5.0\BusinessObject.dll
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\bin\Debug\net5.0\BusinessObject.pdb
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.dll
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.pdb
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+D:\Project\.Net\PRN211_Practice_No2\MyLibrabry\obj\Debug\net5.0\ref\BusinessObject.dll
